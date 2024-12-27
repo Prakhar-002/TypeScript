@@ -25,8 +25,8 @@ This repository covers `key concepts` and `advanced topics` in TypeScript. It’
 
 # Topics Covered 📚
 
-| ♻️ Easy ♻️ | ☢️ Medium ☢️ | 🫀 Hard 🫀 | 
-|-------------|---------------|-------------|
+| `♻️ Easy ♻️` | `☢️ Medium ☢️` | `🫀 Hard 🫀` | 
+|---------------|-----------------|---------------|
 | Annotations in TypeScript ✍️| Intersection Types ➗ |  Declaration Merging 🔗 |
 | Type Inference 🔍|  Unions 🔄 |  Generics 🎛️ |
 | Function Parameter Annotations 🧑‍💻|  Literal Types 🔠 |  Type Narrowing 🧠 |
