@@ -9,6 +9,8 @@ This repository covers `key concepts` and `advanced topics` in TypeScript. It’
 
 </br>
 
+<img src="https://github.com/user-attachments/assets/a002332a-eb94-4fab-946c-9c359d6e9030">
+
 <div align="center">
 
 </br>
